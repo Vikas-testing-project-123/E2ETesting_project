@@ -1,0 +1,324 @@
+2021-01-31 20:27:50,067 : INFO : test_e2e : Shop button is clicked
+2021-01-31 20:27:56,973 : INFO : test_homepage : First name is entered
+2021-01-31 20:27:57,172 : INFO : test_homepage : Email is entered
+2021-01-31 20:27:57,408 : INFO : test_homepage : The password is entered
+2021-01-31 20:27:57,735 : INFO : test_homepage : First name is entered
+2021-01-31 20:27:57,735 : INFO : test_homepage : First name is entered
+2021-01-31 20:27:57,799 : INFO : test_homepage : Email is entered
+2021-01-31 20:27:57,799 : INFO : test_homepage : Email is entered
+2021-01-31 20:27:57,876 : INFO : test_homepage : The password is entered
+2021-01-31 20:27:57,876 : INFO : test_homepage : The password is entered
+2021-01-31 20:32:28,621 : INFO : test_e2e : Shop button is clicked
+2021-01-31 20:32:34,409 : INFO : test_homepage : First name is entered
+2021-01-31 20:32:34,513 : INFO : test_homepage : Email is entered
+2021-01-31 20:32:34,650 : INFO : test_homepage : The password is entered
+2021-01-31 20:32:34,876 : INFO : test_homepage : First name is entered
+2021-01-31 20:32:34,876 : INFO : test_homepage : First name is entered
+2021-01-31 20:32:34,943 : INFO : test_homepage : Email is entered
+2021-01-31 20:32:34,943 : INFO : test_homepage : Email is entered
+2021-01-31 20:32:35,021 : INFO : test_homepage : The password is entered
+2021-01-31 20:32:35,021 : INFO : test_homepage : The password is entered
+2021-01-31 20:39:37,230 : INFO : test_e2e : Shop button is clicked
+2021-01-31 20:39:42,546 : INFO : test_homepage : First name is entered
+2021-01-31 20:39:42,648 : INFO : test_homepage : Email is entered
+2021-01-31 20:39:42,755 : INFO : test_homepage : The password is entered
+2021-01-31 20:39:43,017 : INFO : test_homepage : First name is entered
+2021-01-31 20:39:43,017 : INFO : test_homepage : First name is entered
+2021-01-31 20:39:43,089 : INFO : test_homepage : Email is entered
+2021-01-31 20:39:43,089 : INFO : test_homepage : Email is entered
+2021-01-31 20:39:43,165 : INFO : test_homepage : The password is entered
+2021-01-31 20:39:43,165 : INFO : test_homepage : The password is entered
+2021-01-31 20:44:26,191 : INFO : test_homepage : First name is entered
+2021-01-31 20:44:26,295 : INFO : test_homepage : Email is entered
+2021-01-31 20:44:26,404 : INFO : test_homepage : The password is entered
+2021-01-31 20:44:26,647 : INFO : test_homepage : First name is entered
+2021-01-31 20:44:26,647 : INFO : test_homepage : First name is entered
+2021-01-31 20:44:26,771 : INFO : test_homepage : Email is entered
+2021-01-31 20:44:26,771 : INFO : test_homepage : Email is entered
+2021-01-31 20:44:26,860 : INFO : test_homepage : The password is entered
+2021-01-31 20:44:26,860 : INFO : test_homepage : The password is entered
+2021-01-31 20:46:03,345 : INFO : test_homepage : First name is entered
+2021-01-31 20:46:03,446 : INFO : test_homepage : Email is entered
+2021-01-31 20:46:03,551 : INFO : test_homepage : The password is entered
+2021-01-31 20:46:03,640 : INFO : test_homepage : First name is entered
+2021-01-31 20:46:03,640 : INFO : test_homepage : First name is entered
+2021-01-31 20:46:03,703 : INFO : test_homepage : Email is entered
+2021-01-31 20:46:03,703 : INFO : test_homepage : Email is entered
+2021-01-31 20:46:03,779 : INFO : test_homepage : The password is entered
+2021-01-31 20:46:03,779 : INFO : test_homepage : The password is entered
+2021-01-31 20:48:29,272 : INFO : test_homepage : First name is entered
+2021-01-31 20:48:29,374 : INFO : test_homepage : Email is entered
+2021-01-31 20:48:29,475 : INFO : test_homepage : The password is entered
+2021-01-31 20:48:29,644 : INFO : test_homepage : First name is entered
+2021-01-31 20:48:29,644 : INFO : test_homepage : First name is entered
+2021-01-31 20:48:29,723 : INFO : test_homepage : Email is entered
+2021-01-31 20:48:29,723 : INFO : test_homepage : Email is entered
+2021-01-31 20:48:29,788 : INFO : test_homepage : The password is entered
+2021-01-31 20:48:29,788 : INFO : test_homepage : The password is entered
+2021-01-31 20:49:05,023 : INFO : test_homepage : First name is entered
+2021-01-31 20:49:05,119 : INFO : test_homepage : Email is entered
+2021-01-31 20:49:05,236 : INFO : test_homepage : The password is entered
+2021-01-31 20:49:09,224 : INFO : test_homepage : First name is entered
+2021-01-31 20:49:09,224 : INFO : test_homepage : First name is entered
+2021-01-31 20:49:09,319 : INFO : test_homepage : Email is entered
+2021-01-31 20:49:09,319 : INFO : test_homepage : Email is entered
+2021-01-31 20:49:09,426 : INFO : test_homepage : The password is entered
+2021-01-31 20:49:09,426 : INFO : test_homepage : The password is entered
+2021-01-31 20:56:00,287 : INFO : test_e2e : Shop button is clicked
+2021-01-31 20:57:18,235 : INFO : test_e2e : Shop button is clicked
+2021-01-31 20:58:29,342 : INFO : test_homepage : First name is entered
+2021-01-31 20:58:29,446 : INFO : test_homepage : Email is entered
+2021-01-31 20:58:29,553 : INFO : test_homepage : The password is entered
+2021-01-31 20:58:33,065 : INFO : test_homepage : First name is entered
+2021-01-31 20:58:33,065 : INFO : test_homepage : First name is entered
+2021-01-31 20:58:33,159 : INFO : test_homepage : Email is entered
+2021-01-31 20:58:33,159 : INFO : test_homepage : Email is entered
+2021-01-31 20:58:33,258 : INFO : test_homepage : The password is entered
+2021-01-31 20:58:33,258 : INFO : test_homepage : The password is entered
+2021-01-31 20:58:56,930 : INFO : test_e2e : Shop button is clicked
+2021-01-31 20:58:56,994 : INFO : test_e2e : Product titles:iphone X
+2021-01-31 20:58:57,034 : INFO : test_e2e : Product titles:Samsung Note 8
+2021-01-31 20:58:57,074 : INFO : test_e2e : Product titles:Nokia Edge
+2021-01-31 20:58:57,098 : INFO : test_e2e : Product titles:Blackberry
+2021-01-31 20:59:05,081 : INFO : test_e2e : Checkbox is clicked
+2021-01-31 20:59:07,334 : INFO : test_e2e : Success button is clicked
+2021-01-31 21:01:34,308 : INFO : test_homepage : First name is entered
+2021-01-31 21:01:34,396 : INFO : test_homepage : Email is entered
+2021-01-31 21:01:34,500 : INFO : test_homepage : The password is entered
+2021-01-31 21:01:34,734 : INFO : test_homepage : First name is entered
+2021-01-31 21:01:34,734 : INFO : test_homepage : First name is entered
+2021-01-31 21:01:34,799 : INFO : test_homepage : Email is entered
+2021-01-31 21:01:34,799 : INFO : test_homepage : Email is entered
+2021-01-31 21:01:34,873 : INFO : test_homepage : The password is entered
+2021-01-31 21:01:34,873 : INFO : test_homepage : The password is entered
+2021-01-31 21:04:43,034 : INFO : test_homepage : First name is entered
+2021-01-31 21:04:43,134 : INFO : test_homepage : Email is entered
+2021-01-31 21:04:43,235 : INFO : test_homepage : The password is entered
+2021-01-31 21:04:43,451 : INFO : test_homepage : First name is entered
+2021-01-31 21:04:43,451 : INFO : test_homepage : First name is entered
+2021-01-31 21:04:43,511 : INFO : test_homepage : Email is entered
+2021-01-31 21:04:43,511 : INFO : test_homepage : Email is entered
+2021-01-31 21:04:43,586 : INFO : test_homepage : The password is entered
+2021-01-31 21:04:43,586 : INFO : test_homepage : The password is entered
+2021-01-31 21:06:36,306 : INFO : test_homepage : First name is entered
+2021-01-31 21:06:36,402 : INFO : test_homepage : Email is entered
+2021-01-31 21:06:36,507 : INFO : test_homepage : The password is entered
+2021-01-31 21:06:36,796 : INFO : test_homepage : First name is entered
+2021-01-31 21:06:36,796 : INFO : test_homepage : First name is entered
+2021-01-31 21:06:36,859 : INFO : test_homepage : Email is entered
+2021-01-31 21:06:36,859 : INFO : test_homepage : Email is entered
+2021-01-31 21:06:36,927 : INFO : test_homepage : The password is entered
+2021-01-31 21:06:36,927 : INFO : test_homepage : The password is entered
+2021-01-31 21:19:57,246 : INFO : test_homepage : First name is entered
+2021-01-31 21:19:57,347 : INFO : test_homepage : Email is entered
+2021-01-31 21:19:57,449 : INFO : test_homepage : The password is entered
+2021-01-31 21:20:01,285 : INFO : test_homepage : First name is entered
+2021-01-31 21:20:01,285 : INFO : test_homepage : First name is entered
+2021-01-31 21:20:01,375 : INFO : test_homepage : Email is entered
+2021-01-31 21:20:01,375 : INFO : test_homepage : Email is entered
+2021-01-31 21:20:01,474 : INFO : test_homepage : The password is entered
+2021-01-31 21:20:01,474 : INFO : test_homepage : The password is entered
+2021-01-31 21:21:47,148 : INFO : test_e2e : Shop button is clicked
+2021-01-31 21:21:47,195 : INFO : test_e2e : Product titles:iphone X
+2021-01-31 21:21:47,225 : INFO : test_e2e : Product titles:Samsung Note 8
+2021-01-31 21:21:47,256 : INFO : test_e2e : Product titles:Nokia Edge
+2021-01-31 21:21:47,286 : INFO : test_e2e : Product titles:Blackberry
+2021-01-31 21:21:55,245 : INFO : test_e2e : Checkbox is clicked
+2021-01-31 21:21:57,347 : INFO : test_e2e : Success button is clicked
+2021-01-31 21:30:43,905 : INFO : test_e2e : Shop button is clicked
+2021-01-31 21:30:44,055 : INFO : test_e2e : Product titles:iphone X
+2021-01-31 21:30:44,107 : INFO : test_e2e : Product titles:Samsung Note 8
+2021-01-31 21:30:44,158 : INFO : test_e2e : Product titles:Nokia Edge
+2021-01-31 21:30:44,209 : INFO : test_e2e : Product titles:Blackberry
+2021-01-31 21:30:52,550 : INFO : test_e2e : Checkbox is clicked
+2021-01-31 21:30:54,635 : INFO : test_e2e : Success button is clicked
+2021-01-31 21:33:35,858 : INFO : test_e2e : Shop button is clicked
+2021-01-31 21:33:36,000 : INFO : test_e2e : Product titles:iphone X
+2021-01-31 21:33:36,047 : INFO : test_e2e : Product titles:Samsung Note 8
+2021-01-31 21:33:36,093 : INFO : test_e2e : Product titles:Nokia Edge
+2021-01-31 21:33:36,140 : INFO : test_e2e : Product titles:Blackberry
+2021-01-31 21:35:04,385 : INFO : test_e2e : Shop button is clicked
+2021-01-31 21:35:04,444 : INFO : test_e2e : Product titles:iphone X
+2021-01-31 21:35:04,476 : INFO : test_e2e : Product titles:Samsung Note 8
+2021-01-31 21:35:04,507 : INFO : test_e2e : Product titles:Nokia Edge
+2021-01-31 21:35:04,538 : INFO : test_e2e : Product titles:Blackberry
+2021-01-31 21:35:12,417 : INFO : test_e2e : Checkbox is clicked
+2021-01-31 21:35:14,523 : INFO : test_e2e : Success button is clicked
+2021-01-31 21:37:29,014 : INFO : test_e2e : Shop button is clicked
+2021-01-31 21:37:29,118 : INFO : test_e2e : Product titles:iphone X
+2021-01-31 21:37:29,157 : INFO : test_e2e : Product titles:Samsung Note 8
+2021-01-31 21:37:29,191 : INFO : test_e2e : Product titles:Nokia Edge
+2021-01-31 21:37:29,234 : INFO : test_e2e : Product titles:Blackberry
+2021-01-31 21:37:36,992 : INFO : test_e2e : Checkbox is clicked
+2021-01-31 21:37:39,114 : INFO : test_e2e : Success button is clicked
+2021-01-31 21:40:53,799 : INFO : test_e2e : Shop button is clicked
+2021-01-31 21:40:53,864 : INFO : test_e2e : Product titles:iphone X
+2021-01-31 21:40:53,892 : INFO : test_e2e : Product titles:Samsung Note 8
+2021-01-31 21:40:53,930 : INFO : test_e2e : Product titles:Nokia Edge
+2021-01-31 21:40:53,972 : INFO : test_e2e : Product titles:Blackberry
+2021-01-31 21:41:01,897 : INFO : test_e2e : Checkbox is clicked
+2021-01-31 21:41:04,058 : INFO : test_e2e : Success button is clicked
+2021-01-31 21:44:56,090 : INFO : test_e2e : Shop button is clicked
+2021-01-31 21:44:56,209 : INFO : test_e2e : Product titles:iphone X
+2021-01-31 21:44:56,233 : INFO : test_e2e : Product titles:Samsung Note 8
+2021-01-31 21:44:56,264 : INFO : test_e2e : Product titles:Nokia Edge
+2021-01-31 21:44:56,302 : INFO : test_e2e : Product titles:Blackberry
+2021-01-31 21:45:04,239 : INFO : test_e2e : Checkbox is clicked
+2021-01-31 21:45:06,316 : INFO : test_e2e : Success button is clicked
+2021-02-03 01:01:56,440 : INFO : test_e2e : Shop button is clicked
+2021-02-03 01:01:56,638 : INFO : test_e2e : Product titles:iphone X
+2021-02-03 01:01:56,687 : INFO : test_e2e : Product titles:Samsung Note 8
+2021-02-03 01:01:56,737 : INFO : test_e2e : Product titles:Nokia Edge
+2021-02-03 01:01:56,786 : INFO : test_e2e : Product titles:Blackberry
+2021-02-03 01:02:05,106 : INFO : test_e2e : Checkbox is clicked
+2021-02-03 01:02:07,190 : INFO : test_e2e : Success button is clicked
+2021-02-03 01:09:25,541 : INFO : test_e2e : Shop button is clicked
+2021-02-03 01:09:25,612 : INFO : test_e2e : Product titles:iphone X
+2021-02-03 01:09:25,645 : INFO : test_e2e : Product titles:Samsung Note 8
+2021-02-03 01:09:25,681 : INFO : test_e2e : Product titles:Nokia Edge
+2021-02-03 01:09:25,726 : INFO : test_e2e : Product titles:Blackberry
+2021-02-03 01:09:33,509 : INFO : test_e2e : Checkbox is clicked
+2021-02-03 01:09:35,583 : INFO : test_e2e : Success button is clicked
+2021-02-03 01:17:01,592 : INFO : test_e2e : Shop button is clicked
+2021-02-03 01:17:01,679 : INFO : test_e2e : Product titles:iphone X
+2021-02-03 01:17:01,729 : INFO : test_e2e : Product titles:Samsung Note 8
+2021-02-03 01:17:01,762 : INFO : test_e2e : Product titles:Nokia Edge
+2021-02-03 01:17:01,798 : INFO : test_e2e : Product titles:Blackberry
+2021-02-03 01:17:54,276 : INFO : test_e2e : Shop button is clicked
+2021-02-03 01:17:54,380 : INFO : test_e2e : Product titles:iphone X
+2021-02-03 01:17:54,424 : INFO : test_e2e : Product titles:Samsung Note 8
+2021-02-03 01:17:54,472 : INFO : test_e2e : Product titles:Nokia Edge
+2021-02-03 01:17:54,522 : INFO : test_e2e : Product titles:Blackberry
+2021-02-03 01:18:02,409 : INFO : test_e2e : Checkbox is clicked
+2021-02-03 01:18:04,535 : INFO : test_e2e : Success button is clicked
+2021-02-03 01:19:12,600 : INFO : test_e2e : Shop button is clicked
+2021-02-03 01:19:12,715 : INFO : test_e2e : Product titles:iphone X
+2021-02-03 01:19:12,765 : INFO : test_e2e : Product titles:Samsung Note 8
+2021-02-03 01:19:12,816 : INFO : test_e2e : Product titles:Nokia Edge
+2021-02-03 01:19:12,864 : INFO : test_e2e : Product titles:Blackberry
+2021-02-03 01:19:20,802 : INFO : test_e2e : Checkbox is clicked
+2021-02-03 01:19:22,926 : INFO : test_e2e : Success button is clicked
+2021-02-03 01:19:48,291 : INFO : test_e2e : Shop button is clicked
+2021-02-03 01:19:48,392 : INFO : test_e2e : Product titles:iphone X
+2021-02-03 01:19:48,430 : INFO : test_e2e : Product titles:Samsung Note 8
+2021-02-03 01:19:48,461 : INFO : test_e2e : Product titles:Nokia Edge
+2021-02-03 01:19:48,493 : INFO : test_e2e : Product titles:Blackberry
+2021-02-03 01:19:56,482 : INFO : test_e2e : Checkbox is clicked
+2021-02-03 01:19:58,608 : INFO : test_e2e : Success button is clicked
+2021-02-03 01:20:17,228 : INFO : test_e2e : Shop button is clicked
+2021-02-03 01:20:17,303 : INFO : test_e2e : Product titles:iphone X
+2021-02-03 01:20:17,342 : INFO : test_e2e : Product titles:Samsung Note 8
+2021-02-03 01:20:17,378 : INFO : test_e2e : Product titles:Nokia Edge
+2021-02-03 01:20:17,411 : INFO : test_e2e : Product titles:Blackberry
+2021-02-03 01:20:25,321 : INFO : test_e2e : Checkbox is clicked
+2021-02-03 01:20:27,446 : INFO : test_e2e : Success button is clicked
+2021-02-03 01:20:53,160 : INFO : test_e2e : Shop button is clicked
+2021-02-03 01:20:53,265 : INFO : test_e2e : Product titles:iphone X
+2021-02-03 01:20:53,300 : INFO : test_e2e : Product titles:Samsung Note 8
+2021-02-03 01:20:53,329 : INFO : test_e2e : Product titles:Nokia Edge
+2021-02-03 01:20:53,357 : INFO : test_e2e : Product titles:Blackberry
+2021-02-03 01:21:01,406 : INFO : test_e2e : Checkbox is clicked
+2021-02-03 01:21:03,470 : INFO : test_e2e : Success button is clicked
+2021-02-03 01:21:30,411 : INFO : test_e2e : Shop button is clicked
+2021-02-03 01:21:30,516 : INFO : test_e2e : Product titles:iphone X
+2021-02-03 01:21:30,554 : INFO : test_e2e : Product titles:Samsung Note 8
+2021-02-03 01:21:30,592 : INFO : test_e2e : Product titles:Nokia Edge
+2021-02-03 01:21:30,627 : INFO : test_e2e : Product titles:Blackberry
+2021-02-03 01:21:38,424 : INFO : test_e2e : Checkbox is clicked
+2021-02-03 01:21:40,549 : INFO : test_e2e : Success button is clicked
+2021-02-03 03:48:34,336 : INFO : test_e2e : Shop button is clicked
+2021-02-03 03:48:34,477 : INFO : test_e2e : Product titles:iphone X
+2021-02-03 03:48:34,521 : INFO : test_e2e : Product titles:Samsung Note 8
+2021-02-03 03:48:34,564 : INFO : test_e2e : Product titles:Nokia Edge
+2021-02-03 03:48:34,599 : INFO : test_e2e : Product titles:Blackberry
+2021-02-03 03:48:43,539 : INFO : test_e2e : Checkbox is clicked
+2021-02-03 03:48:45,664 : INFO : test_e2e : Success button is clicked
+2021-02-03 03:48:52,343 : INFO : test_homepage : First name is entered
+2021-02-03 03:48:52,440 : INFO : test_homepage : Email is entered
+2021-02-03 03:48:52,548 : INFO : test_homepage : The password is entered
+2021-02-03 03:48:56,736 : INFO : test_homepage : First name is entered
+2021-02-03 03:48:56,736 : INFO : test_homepage : First name is entered
+2021-02-03 03:48:56,825 : INFO : test_homepage : Email is entered
+2021-02-03 03:48:56,825 : INFO : test_homepage : Email is entered
+2021-02-03 03:48:56,927 : INFO : test_homepage : The password is entered
+2021-02-03 03:48:56,927 : INFO : test_homepage : The password is entered
+2021-02-03 03:55:45,500 : INFO : test_e2e : Shop button is clicked
+2021-02-03 03:55:45,568 : INFO : test_e2e : Product titles:iphone X
+2021-02-03 03:55:45,601 : INFO : test_e2e : Product titles:Samsung Note 8
+2021-02-03 03:55:45,635 : INFO : test_e2e : Product titles:Nokia Edge
+2021-02-03 03:55:45,667 : INFO : test_e2e : Product titles:Blackberry
+2021-02-03 03:55:53,753 : INFO : test_e2e : Checkbox is clicked
+2021-02-03 03:55:55,846 : INFO : test_e2e : Success button is clicked
+2021-02-03 03:56:03,303 : INFO : test_homepage : First name is entered
+2021-02-03 03:56:03,405 : INFO : test_homepage : Email is entered
+2021-02-03 03:56:03,511 : INFO : test_homepage : The password is entered
+2021-02-03 03:56:06,043 : INFO : test_homepage : First name is entered
+2021-02-03 03:56:06,043 : INFO : test_homepage : First name is entered
+2021-02-03 03:56:06,132 : INFO : test_homepage : Email is entered
+2021-02-03 03:56:06,132 : INFO : test_homepage : Email is entered
+2021-02-03 03:56:06,268 : INFO : test_homepage : The password is entered
+2021-02-03 03:56:06,268 : INFO : test_homepage : The password is entered
+2021-02-07 15:04:21,776 : INFO : test_e2e : Shop button is clicked
+2021-02-07 15:04:22,436 : INFO : test_e2e : Product titles:iphone X
+2021-02-07 15:04:22,538 : INFO : test_e2e : Product titles:Samsung Note 8
+2021-02-07 15:04:22,578 : INFO : test_e2e : Product titles:Nokia Edge
+2021-02-07 15:04:22,619 : INFO : test_e2e : Product titles:Blackberry
+2021-02-07 15:04:43,928 : INFO : test_homepage : First name is entered
+2021-02-07 15:04:44,025 : INFO : test_homepage : Email is entered
+2021-02-07 15:04:44,129 : INFO : test_homepage : The password is entered
+2021-02-07 15:04:45,252 : INFO : test_homepage : First name is entered
+2021-02-07 15:04:45,252 : INFO : test_homepage : First name is entered
+2021-02-07 15:04:45,340 : INFO : test_homepage : Email is entered
+2021-02-07 15:04:45,340 : INFO : test_homepage : Email is entered
+2021-02-07 15:04:45,436 : INFO : test_homepage : The password is entered
+2021-02-07 15:04:45,436 : INFO : test_homepage : The password is entered
+2021-02-08 22:20:16,863 : INFO : test_e2e : Shop button is clicked
+2021-02-08 22:20:17,526 : INFO : test_e2e : Product titles:iphone X
+2021-02-08 22:20:17,558 : INFO : test_e2e : Product titles:Samsung Note 8
+2021-02-08 22:20:17,589 : INFO : test_e2e : Product titles:Nokia Edge
+2021-02-08 22:20:17,620 : INFO : test_e2e : Product titles:Blackberry
+2021-02-08 22:20:27,752 : INFO : test_e2e : Checkbox is clicked
+2021-02-08 22:20:29,925 : INFO : test_e2e : Success button is clicked
+2021-02-08 22:20:38,693 : INFO : test_homepage : First name is entered
+2021-02-08 22:20:38,780 : INFO : test_homepage : Email is entered
+2021-02-08 22:20:38,909 : INFO : test_homepage : The password is entered
+2021-02-08 22:20:39,850 : INFO : test_homepage : First name is entered
+2021-02-08 22:20:39,850 : INFO : test_homepage : First name is entered
+2021-02-08 22:20:39,936 : INFO : test_homepage : Email is entered
+2021-02-08 22:20:39,936 : INFO : test_homepage : Email is entered
+2021-02-08 22:20:40,055 : INFO : test_homepage : The password is entered
+2021-02-08 22:20:40,055 : INFO : test_homepage : The password is entered
+2021-02-08 22:22:52,802 : INFO : test_e2e : Shop button is clicked
+2021-02-08 22:22:52,858 : INFO : test_e2e : Product titles:iphone X
+2021-02-08 22:22:52,892 : INFO : test_e2e : Product titles:Samsung Note 8
+2021-02-08 22:22:52,926 : INFO : test_e2e : Product titles:Nokia Edge
+2021-02-08 22:22:52,959 : INFO : test_e2e : Product titles:Blackberry
+2021-02-08 22:23:01,131 : INFO : test_e2e : Checkbox is clicked
+2021-02-08 22:23:03,287 : INFO : test_e2e : Success button is clicked
+2021-02-08 23:49:10,577 : INFO : test_homepage : First name is entered
+2021-02-08 23:49:10,671 : INFO : test_homepage : Email is entered
+2021-02-08 23:49:10,772 : INFO : test_homepage : The password is entered
+2021-02-08 23:49:11,747 : INFO : test_homepage : First name is entered
+2021-02-08 23:49:11,747 : INFO : test_homepage : First name is entered
+2021-02-08 23:49:11,850 : INFO : test_homepage : Email is entered
+2021-02-08 23:49:11,850 : INFO : test_homepage : Email is entered
+2021-02-08 23:49:11,940 : INFO : test_homepage : The password is entered
+2021-02-08 23:49:11,940 : INFO : test_homepage : The password is entered
+2021-02-09 01:18:55,751 : INFO : test_homepage : First name is entered
+2021-02-09 01:18:55,859 : INFO : test_homepage : Email is entered
+2021-02-09 01:18:55,997 : INFO : test_homepage : The password is entered
+2021-02-09 01:18:56,900 : INFO : test_homepage : First name is entered
+2021-02-09 01:18:56,900 : INFO : test_homepage : First name is entered
+2021-02-09 01:18:56,987 : INFO : test_homepage : Email is entered
+2021-02-09 01:18:56,987 : INFO : test_homepage : Email is entered
+2021-02-09 01:18:57,140 : INFO : test_homepage : The password is entered
+2021-02-09 01:18:57,140 : INFO : test_homepage : The password is entered
+2021-02-09 01:43:33,798 : INFO : test_homepage : First name is entered
+2021-02-09 01:43:33,898 : INFO : test_homepage : Email is entered
+2021-02-09 01:43:34,011 : INFO : test_homepage : The password is entered
+2021-02-09 01:43:35,156 : INFO : test_homepage : First name is entered
+2021-02-09 01:43:35,156 : INFO : test_homepage : First name is entered
+2021-02-09 01:43:35,239 : INFO : test_homepage : Email is entered
+2021-02-09 01:43:35,239 : INFO : test_homepage : Email is entered
+2021-02-09 01:43:35,337 : INFO : test_homepage : The password is entered
+2021-02-09 01:43:35,337 : INFO : test_homepage : The password is entered
