@@ -1,0 +1,7 @@
+Create the selenium code for the site and the checkout flow
+Create the conftest file and use the set up and yield method in it
+Create the utilities folder in which we use the base class in which the fuction we used number of times are initialized
+Create the page object model
+Create the html report
+In this project we took a web site and go through the checkout flow
+Took the data from the test data folder and use it in the home page form
